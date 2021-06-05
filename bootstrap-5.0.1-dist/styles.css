@@ -1,0 +1,116 @@
+*
+{
+    margin: 0px;
+}
+#header
+{
+    background-color: burlywood;
+}
+.imagehead
+{
+    text-align: center;
+}
+#headerimg
+{
+    width: 60%;
+    height: auto;
+}
+h1
+{
+    font-family: cursive;
+    text-transform: capitalize;
+}
+.navigationbar
+{
+    color: cornsilk;
+    background-color: rgba(0,0,0,0.5);
+}
+.cf1
+{
+    padding: 3% 15%;
+}
+.navbar-brand
+{
+    font-size: 2rem;
+}
+.navbar{
+    padding: 1rem;
+}
+.nav-link
+{
+    margin: 0 8px;
+}
+.header-content{
+    text-align: center;
+}
+#header-p
+{
+    color: grey;
+}
+#feature-list
+{
+    margin: 8% 0%;
+    padding: 3% 15%;
+    text-align: center;
+    text-transform: capitalize;
+}
+.feture-content
+{
+    padding: 0% 20%;
+    color: grey;
+}
+.faicons
+{
+    color:burlywood;
+    margin-bottom: 5px;
+}
+.faicons:hover
+{
+    margin-bottom: 8px;
+    color: brown;
+}
+#testmonial
+{
+    font-family: cursive;
+    background-color: burlywood;
+    text-align: center;
+}
+.testmonial-img
+{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    margin: 20px;
+}
+.carousel-inner{
+    padding: 3% 15%;
+}
+#pricing
+{
+    padding: 3% 15%;
+}
+.card{
+    text-align: center;
+    padding: 0px;
+    margin: 5px auto;
+    min-height: 250px;
+}
+#contactus
+{
+    font-family: cursive;
+    text-align: center;
+    background-color: burlywood; 
+    font-size: 1.5rem;
+    padding: 3% 15%;
+}
+#footer
+{
+    text-align: center;
+    background-color: burlywood; 
+    font-size: 1.5rem;
+    padding: 3% 15%;
+}
+.social-icons
+{
+    margin: 20px 10px;
+}
